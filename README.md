@@ -19,12 +19,6 @@ A modern desktop calculator application built using **Python** and **Tkinter**. 
 
 ---
 
-## 📷 Screenshot
-
-![Modern Python Calculator](screenshot.png)
-
----
-
 ## 🛠️ Technologies Used
 
 - Python 3
